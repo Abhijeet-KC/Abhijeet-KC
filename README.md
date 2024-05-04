@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I started coding just a year ago...
 -->
  🌱 I’m currently learning HTML, CSS, JavaScript, PostgreSQL <br/>
- 🔭 I’m currently working on personal project regarding my portfolio. <br/>
+ 🔭 I’m currently working on personal project regarding my portfolio website. <br/>
  ⚡ Fun fact: I started coding just a year ago...
